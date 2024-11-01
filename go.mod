@@ -44,7 +44,7 @@ require (
 	github.com/creack/pty v1.1.11 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/fatih/color v1.9.0 // indirect
-	github.com/gogo/protobuf v1.2.2-0.20190723190241-65acae22fc9d // indirect
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/groupcache v0.0.0-20160516000752-02826c3e7903 // indirect
 	github.com/golang/protobuf v1.3.2 // indirect
 	github.com/google/gofuzz v1.0.0 // indirect
